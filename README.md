@@ -24,7 +24,7 @@ The database schema includes tables for:
 
 3. **📈 Seasonal Trends**:
    - Generally, the highest sales occur in the last quarter of the year.
-   - However, the **Vizula** store showed a different trend, achieving its peak sales during **May, June, and July**.
+   - However, the **Vizula** store showed a different trend, achieving its peak sales during **January, May, June, and July**.
 
 
 ## 🏁 Conclusion
